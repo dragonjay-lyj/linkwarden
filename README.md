@@ -127,3 +127,4 @@ If you did any of the above, Thanksss! Otherwise thanks.
 Huge thanks to these guys for spending their time helping Linkwarden grow. They rock! ⚡️
 
 <img src="https://contributors-img.web.app/image?repo=linkwarden/linkwarden" alt="Contributors"/>
+yep
